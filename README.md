@@ -1,1 +1,0 @@
-# WORKSHOP-2--Object-detection-using-web-camera-Completion-requirements
